@@ -1,0 +1,6 @@
+Crawl==0.5.5
+Django==1.6.2
+Scrapy==0.22.2
+Twisted==12.2.0
+django-tinymce==1.5.2
+lxml==3.3.4
